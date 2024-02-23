@@ -1,0 +1,38 @@
+html {
+    display:grid;
+    aspect-ratio: 1/1;
+    overflow: hidden;
+  }
+  html, 
+  body {
+      height: 100%;
+      background:rgb(40,40,40);
+  }
+  canvas {
+    overflow: hidden;
+  }
+
+body {
+    min-height: 100%;
+    height:100%;
+    margin:0;
+    z-index: 2;
+    display:flex;
+    overflow:hidden;
+    background: rgba(0,0,0,0);
+}
+
+#canvasContainer {
+    position:relative;
+}
+
+#canvasBackground {
+    margin:0;
+    height: 100vh;
+    aspect-ratio: 1/1;
+    position:absolute;
+}
+
+
+
+  
