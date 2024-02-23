@@ -8,7 +8,7 @@ var backgroundImageShown = true
 
 
 var backgroundImage = new Image()
-backgroundImage.src = "docs/images/backgroundtest.png"
+backgroundImage.src = "images/backgroundtest.png"
 backgroundImage.onload = loadBackground
 
 function loadBackground() {
