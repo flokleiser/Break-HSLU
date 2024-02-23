@@ -6,6 +6,7 @@ canvasBackground.height= window.innerHeight
 
 var backgroundImageShown = true
 
+
 var backgroundImage = new Image()
 backgroundImage.src = "docs/images/backgroundtest.png"
 backgroundImage.onload = loadBackground

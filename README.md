@@ -24,6 +24,7 @@ ___
 
 ### <ins>Brainstorming/Ideas:
 
+Look into perfectPixel.js and .createImage --> to load json files and manipulate them
 
 ___
 
