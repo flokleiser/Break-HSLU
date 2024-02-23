@@ -2,7 +2,7 @@
 ### Thema: "I took a break"
 ___
 
-![Aufgabe] (docs/pdf/hausaufgabe.png)
+![Aufgabe](docs/pdf/hausaufgabe.png)
 
 
 ### <ins>Mind-Map:</ins>
