@@ -3,13 +3,14 @@
 ### <ins>TL:DR Aufgabenstellung:
 
 #### - Thema: 
-  - "I took a break"
-
+  - "I took a break" 
 #### - Step 1: 
   - portray the "break" visually as an image --> study it, make it visible, "translate" graphically --> work out the specific attributes/features
+  - (probably sketches/mockups etc)
 
 #### - Step 2: 
   - Digital "thing" that helps me and others to utilize the regenerative qualities of my break
+  - **important: mail if only concept or if end product**
 
 #### - Form:
   - pdf, **max 4 pages** (landscape) & max 20mb
@@ -24,6 +25,7 @@ ___
 
 ### <ins>Brainstorming/Ideas:
 
+Window bars in front
 
 ___
 
@@ -46,25 +48,20 @@ mindmap
             (pixelated)
             (lofi)
             (comfy)
+            (liminal space)
 
         [Ideas for features]
             (different viewports)
                 adaptive?, no longer 1:1
                 zooming?
                 panning camera
+            
+            (ambience/music)
+                morphing music/sounds
 
-            (different weather)
-                (rain)
-                (snow)
-                (sunny)
-                (windy)
-                (stormy)
-
-            (different time)
-                (morning/dawn)
-                (noon)
-                (dusk)
-                (night)
+            (same spot)
+                (changing weather)
+                (changing time of day)
 
 ```
 ___
