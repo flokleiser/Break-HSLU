@@ -3,13 +3,14 @@
 ### <ins>TL:DR Aufgabenstellung:
 
 #### - Thema: 
-  - "I took a break"
-
+  - "I took a break" 
 #### - Step 1: 
   - portray the "break" visually as an image --> study it, make it visible, "translate" graphically --> work out the specific attributes/features
+  - (probably sketches/mockups etc)
 
 #### - Step 2: 
   - Digital "thing" that helps me and others to utilize the regenerative qualities of my break
+  - **important: mail if only concept or if end product**
 
 #### - Form:
   - pdf, **max 4 pages** (landscape) & max 20mb
@@ -24,7 +25,7 @@ ___
 
 ### <ins>Brainstorming/Ideas:
 
-Look into perfectPixel.js and .createImage --> to load json files and manipulate them
+Window bars in front
 
 ___
 
