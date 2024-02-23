@@ -46,25 +46,20 @@ mindmap
             (pixelated)
             (lofi)
             (comfy)
+            (liminal space)
 
         [Ideas for features]
             (different viewports)
                 adaptive?, no longer 1:1
                 zooming?
                 panning camera
+            
+            (ambience/music)
+                morphing music/sounds
 
-            (different weather)
-                (rain)
-                (snow)
-                (sunny)
-                (windy)
-                (stormy)
-
-            (different time)
-                (morning/dawn)
-                (noon)
-                (dusk)
-                (night)
+            (same spot)
+                (changing weather)
+                (changing time of day)
 
 ```
 ___
