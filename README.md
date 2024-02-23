@@ -1,6 +1,26 @@
 # Hausaufgabe Digital Ideation 2024
 
-<!-- ![Aufgabe](docs/pdf/hausaufgabe.png) -->
+### <ins>TL:DR Aufgabenstellung:
+
+#### - Thema: 
+  - "I took a break"
+
+#### - Step 1: 
+  - portray the "break" visually as an image --> study it, make it visible, "translate" graphically --> work out the specific attributes/features
+
+#### - Step 2: 
+  - Digital "thing" that helps me and others to utilize the regenerative qualities of my break
+
+#### - Form:
+  - pdf, **max 4 pages** (landscape) & max 20mb
+  - **max 200 words** + images
+  - presentation of the concept
+    - covers relevant points for the application, no redundancy and no contradictions, thin & unmistakeably clear and concise (?)
+    - original (with personal "signature")
+    - quality & visuals: with care, convincing, user friendly and without technical problems --> covers the whole thing and individual elements
+    - language: understandable, precise, stylistically "safe" and without mistakes
+
+___
 
 ### <ins>Brainstorming/Ideas:
 
@@ -14,12 +34,13 @@ mindmap
     )I took a break(
 
         ((Form/Medium))
-            (html5 canvas + js.)
-                (maybe try out ts.)
+            (html5 canvas + js/ts)
             (draw in photoshop/illustrator)
-            (turn pictures into pixels)
-            (look into glsl)
-            (look into better <br> animation techniques)
+            [pictures/photos into pixels]
+                mosaic filter
+                look into base 64
+                look into glsl
+                look into better <br> animation techniques
 
         [art style:] 
             (pixelated)
@@ -28,6 +49,7 @@ mindmap
 
         [Ideas for features]
             (different viewports)
+                adaptive?, no longer 1:1
                 zooming?
                 panning camera
 
@@ -38,6 +60,12 @@ mindmap
                 (windy)
                 (stormy)
 
+            (different time)
+                (morning/dawn)
+                (noon)
+                (dusk)
+                (night)
+
 ```
 ___
 
@@ -45,12 +73,12 @@ ___
 
 #### 1. Thema
 Das diesjährige Thema lautet: "I took a break".
-"Also, man kann sich in einen Sessel setzen – ich sitze furchtbar gern im Sessel und döse – und davon- schweben. Manchmal, vor allem wenn ich einschlafe oder mit geschlossenen Augen dasitze … schwebe ich durch diesen speziellen Raum, in dem die Bilder von selbst auftauchen, ohne mein Zutun. Sobald ich darüber nachdenke, ist es vorbei." David Lynch, in: Chris Rodley (Hrsg.), Lynch über Lynch, 2006, S. 30.
+"Also, man kann sich in einen Sessel setzen – ich sitze furchtbar gern im Sessel und döse – und davon schweben. Manchmal, vor allem wenn ich einschlafe oder mit geschlossenen Augen dasitze … schwebe ich durch diesen speziellen Raum, in dem die Bilder von selbst auftauchen, ohne mein Zutun. Sobald ich darüber nachdenke, ist es vorbei." David Lynch, in: Chris Rodley (Hrsg.), Lynch über Lynch, 2006, S. 30.
 Was tun Sie, um zu regenerieren, sich eine Auszeit zu nehmen? "Breaks" dauern kurz oder länger, sie brauchen meistens einen geschützten Ort, finden nachts oder tagsüber statt, können gemessen werden, sind manchmal zu viel oder zu wenig, sind Wach- oder Schlafzustände oder etwas dazwischen.
-- a.	Stellen Sie uns in einem ersten Schritt einen Ihrer "breaks" in Bildern vor. Studieren Sie ihn, machen Sie ihn sichtbar, übersetzen Sie ihn grafisch, wobei Sie seine spezifischen Eigenschaf-ten herausarbeiten und in visueller Form nachvollziehbar machen.
+- a.	Stellen Sie uns in einem ersten Schritt einen Ihrer "breaks" in Bildern vor. Studieren Sie ihn, machen Sie ihn sichtbar, übersetzen Sie ihn grafisch, wobei Sie seine spezifischen Eigenschaften herausarbeiten und in visueller Form nachvollziehbar machen.
 - b.	Entwerfen Sie dann ausgehende von diesen Eigenschaften ein Konzept
     - i.	ENTWEDER für ein Game, das in die Welt Ihres "break" entführt,
-    - ii.	ODER für eine digitale Anwendung, die Sie und andere darin unterstützt, die rege-nerativen Qualitäten Ihrer Art von “break” optimal zu nutzen oder zu trainieren.
+    - ii.	ODER für eine digitale Anwendung, die Sie und andere darin unterstützt, die regenerativen Qualitäten Ihrer Art von “break” optimal zu nutzen oder zu trainieren.
 <br/>
 
 #### 2. Form
