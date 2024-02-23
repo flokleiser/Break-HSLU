@@ -3,15 +3,10 @@ var canvasFade = document.getElementById('canvasFade');
 var ctxBack = canvasBack.getContext('2d');
 var ctxFade = canvasFade.getContext('2d');
 
-var canvasDetail= document.getElementById('canvasDetail');
-var ctxDetail= canvasDetail.getContext('2d');
-
 canvasBack.width = 1000;
 canvasFade.width = 1000;
 canvasBack.height = 1000;
 canvasFade.height = 1000;
-canvasDetail.width= 1000;
-canvasDetail.height = 1000;
 
 var startingImage = true;
 var currentImage = null; 

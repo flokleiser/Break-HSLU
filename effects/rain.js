@@ -1,9 +1,6 @@
 var canvasRain= document.getElementById('canvasRain');
 var ctxRain= canvasRain.getContext('2d');
 
-var canvasDetail= document.getElementById('canvasDetail');
-var ctxDetail= canvasDetail.getContext('2d');
-
 canvasRain.width = 500;
 canvasRain.height = 500;
 
@@ -45,29 +42,14 @@ raindropImage.src = "images/raindrop_test2.png"
 
 
 function toggleRain() {
-  // console.log(ctxRain.globalAlpha)
-  // ctxRain.globalAlpha = 0.1
   raining = !raining
   if (raining) {
-    // rainOpacity = 0;
-    // ctxRain.globalAlpha = rainOpacity; 
     fadeInRain();
     rainInterval = setInterval(drawRain,30);
     console.log('rain')
-    // loadRainSound();
-    // setTimeout(function() {
-    //   loadAmbulanceSound();
-    // },5500)
-
-    // if (currentImage === 'clouds') {
-    //   console.log('currentimage detection')
-    //   ctxDetail.fillStyle = 'rgba(0,0,0,0.3)'
-    //   ctxDetail.fillRect(0,0,canvasDetail.width,canvasDetail.height);
-    // }
 
   }
   else {
-    // isFadingOutRain = true
     fadeOutRain();
     console.log('clear')
     setTimeout(function() {

@@ -127,11 +127,6 @@ planeButton.textContent = "Planes"
 planeButton.onclick = togglePlane;
 document.body.appendChild(planeButton);
 
-var nightPlaneButton= document.createElement('button2');
-nightPlaneButton.textContent = "NightPlanes"
-nightPlaneButton.onclick = toggleNightPlane;
-document.body.appendChild(nightPlaneButton);
-
 var borealisButton= document.createElement('button2');
 borealisButton.textContent = "Borealis"
 borealisButton.onclick = toggleBorealis;
@@ -295,7 +290,6 @@ thirdRow.appendChild(borealisButton);
 thirdRow.appendChild(planeButton);
 thirdRow.appendChild(birdButton);
 thirdRow.appendChild(birdFlockButton);
-thirdRow.appendChild(nightPlaneButton);
 thirdRow.appendChild(cometButton);
 thirdRow.appendChild(moonButton);
 thirdRow.appendChild(windowButton);
