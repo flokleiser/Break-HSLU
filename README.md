@@ -24,7 +24,7 @@
 ___
 
 
-![mindmap](docs/mindmap-test.png)
+![mindmap](docs/mindmap.png)
 
 
 
