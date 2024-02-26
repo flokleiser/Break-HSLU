@@ -2,15 +2,16 @@
 
 ### <ins>TL:DR Aufgabenstellung:
 
-#### - Thema: 
-  - "I took a break" 
+#### Thema:    "<ins>I took a break</ins>" 
+
 #### - Step 1: 
   - portray the "break" visually as an image --> study it, make it visible, "translate" graphically --> work out the specific attributes/features
-  - (probably sketches/mockups etc)
+  - (probably sketches/mockups etc) --> [[AI-PS/facade sketch.ai]] & [[AI-PS/facade new.psd]] 
 
 #### - Step 2: 
   - Digital "thing" that helps me and others to utilize the regenerative qualities of my break
-  - **important: mail if only concept or if end product**
+  - **Concept only**, mechanics, dynamics and aesthetics. Lots of images (rough if descriptive enough, more detailed if needed)
+  - The more images the better ("Sie bewerben sich für Design, zeigen Sie uns, was Sie als (visual!) Designer zu leisten vermögen.") 
 
 #### - Form:
   - pdf, **max 4 pages** (landscape) & max 20mb
@@ -21,7 +22,25 @@
     - quality & visuals: with care, convincing, user friendly and without technical problems --> covers the whole thing and individual elements
     - language: understandable, precise, stylistically "safe" and without mistakes
 
+
+<br>
+
+
+#### Checklist [[To-Do]]:
+- [ ] Sketch of idea
+- [ ] Mockup of final screen (couple of scenes, buttons etc)
+- [ ] 200 words text --> brief overview of idea, mechanics, design philosophy etc 
+- [ ] Mindmap of ideas
+
 ___
+
+### Mindmap
+
+<!-- ![mindmap1](Ideas/mindmap1.png) -->
+![mindmap1](Ideas/mindmap_new.png)
+<!-- ![mindmap2](Ideas/mindmap2.png) -->
+___ 
+
 ### <ins>Aufgabenstellung
 
 #### 1. Thema
@@ -46,3 +65,8 @@ soll in Wort (≤ 200 Wörter) und Bild so dargestellt werden, dass sich der Jur
 #### 3.	Hint
 Während der Bearbeitungszeit schicken wir Ihnen einen Hinweis ("hint") zur Konkretisierung zu. Sie sind dann aufgefordert, Ihre bisherige Arbeit möglichst sinnvoll und überzeugend auf diesen "hint" neu auszurichten.
 <br/>
+
+
+#### Clarification
+Für ein Endprodukt fehlt die Zeit, also ist es das Konzept.
+Was beinhaltet ein Konzept? Bei einem Game sind es Mechanik, Dynamik und Ästhetik. Es braucht also Bilder, viele Bilder. Sie können rough bleiben, wenn so aussagekräftig genug, müssen detaillierter sein, wenn z.B. der Look gezeigt werden soll. Sie haben eine Begrenzung der Textmenge im Aufgabenbeschrieb. Je mehr Sie über Bilder verstehbar machen können, desto weniger müssen Sie schreiben (und die Jury lesen). Sie bewerben sich für Design, zeigen Sie uns, was Sie als (visual!) Designer zu leisten vermögen.
