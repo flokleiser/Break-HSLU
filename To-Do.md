@@ -7,3 +7,6 @@ ___
 
 ___
 #### PDF
+- [ ] 200 words
+- [ ] Mockup
+- [ ] Concept art

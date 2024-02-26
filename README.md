@@ -23,27 +23,12 @@
 
 ___
 
+### Mindmap
 
-![mindmap](docs/mindmap.png)
-
-
-
+![mindmap](Ideas/mindmap.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+___ 
 
 ### <ins>Aufgabenstellung
 
