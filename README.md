@@ -36,7 +36,8 @@ ___
 
 ### Mindmap
 
-![mindmap](Ideas/mindmap.png)
+![mindmap1](Ideas/mindmap1.png)
+<!-- ![mindmap2](Ideas/mindmap2.png) -->
 ___ 
 
 ### <ins>Aufgabenstellung
