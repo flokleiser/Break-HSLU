@@ -22,6 +22,29 @@
     - language: understandable, precise, stylistically "safe" and without mistakes
 
 ___
+
+
+![mindmap](docs/mindmap-test.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### <ins>Aufgabenstellung
 
 #### 1. Thema
