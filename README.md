@@ -36,7 +36,8 @@ ___
 
 ### Mindmap
 
-![mindmap1](Ideas/mindmap1.png)
+<!-- ![mindmap1](Ideas/mindmap1.png) -->
+![mindmap1](Ideas/mindmap_new.png)
 <!-- ![mindmap2](Ideas/mindmap2.png) -->
 ___ 
 
