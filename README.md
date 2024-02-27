@@ -42,6 +42,8 @@ ___
 ___
 ![mockup1](Ideas/mindmapPNG/mockup1.png)
 ___ 
+![list](Ideas/mindmapPNG/listofthings.png)
+___
 ![mindmap1](Ideas/mindmapPNG/mindmap_new2.png)
 ___
 
