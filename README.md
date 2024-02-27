@@ -36,10 +36,14 @@ ___
 
 ### Mindmap
 
-<!-- ![mindmap1](Ideas/mindmap1.png) -->
-![mindmap1](Ideas/mindmap_new.png)
-<!-- ![mindmap2](Ideas/mindmap2.png) -->
+![idea](Ideas/mindmapPNG/coreidea.png)
+___
+![mindmap2](Ideas/mindmapPNG/mindmap2.png)
+___
+![mockup1](Ideas/mindmapPNG/mockup1.png)
 ___ 
+![mindmap1](Ideas/mindmapPNG/mindmap_new3.png)
+___
 
 ### <ins>Aufgabenstellung
 
