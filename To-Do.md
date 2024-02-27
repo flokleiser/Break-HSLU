@@ -1,5 +1,9 @@
 # To-Do List
 ___
+#### If time:
+- [ ] Shorten portfolio (to 20 pages)
+
+___
 #### Concept
 - [ ] Figure out a theme
 
@@ -9,7 +13,7 @@ ___
 - [ ] Mockup
 - [ ] Concept art
 
-
+___
 #### Scenes
 - [ ] Old town
 - [ ] Rainy city
@@ -18,3 +22,4 @@ ___
 - [ ] Forest/Nature
 - [ ] Cabin/fireplace
 - [ ] Snowy/Advent town
+
