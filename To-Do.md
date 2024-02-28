@@ -9,7 +9,8 @@ ___
 
 ___
 #### Concept
-- [ ] Figure out a theme
+- [x] Figure out a theme --> Work/Break balance, fliessender übergan
+
 
 ___
 #### PDF
@@ -26,4 +27,3 @@ ___
 - [ ] Forest/Nature
 - [ ] Cabin/fireplace
 - [ ] Snowy/Advent town
-

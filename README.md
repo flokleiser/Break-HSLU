@@ -27,6 +27,7 @@
 
 
 #### Checklist [[To-Do]]:
+- [ ] Clean document of concept --> [[Concept]]
 - [ ] Sketch of idea
 - [ ] Mockup of final screen (couple of scenes, buttons etc)
 - [ ] 200 words text --> brief overview of idea, mechanics, design philosophy etc 
@@ -36,14 +37,20 @@ ___
 
 ### Mindmap
 
-![idea](Ideas/mindmapPNG/coreidea.png)
+<!-- ![idea](Ideas/mindmapPNG/coreidea.png) -->
+![idea](Ideas/mindmapPNG/coreidea2.png)
+
 ___
 ![mindmap2](Ideas/mindmapPNG/mindmap2.png)
+
+___
+![mockup2](Ideas/mindmapPNG/mockup2.svg)
+
 ___
 ![mockup1](Ideas/mindmapPNG/mockup1.png)
+
 ___ 
-![mindmap1](Ideas/mindmapPNG/mindmap_new3.png)
-___
+<!-- ![mindmap1](Ideas/mindmapPNG/mindmap_new3.png) -->
 
 ### <ins>Aufgabenstellung
 
@@ -68,8 +75,14 @@ soll in Wort (≤ 200 Wörter) und Bild so dargestellt werden, dass sich der Jur
 
 #### 3.	Hint
 Während der Bearbeitungszeit schicken wir Ihnen einen Hinweis ("hint") zur Konkretisierung zu. Sie sind dann aufgefordert, Ihre bisherige Arbeit möglichst sinnvoll und überzeugend auf diesen "hint" neu auszurichten.
-<br/>
+Dieses Element sollen Sie möglichst gut in Ihre bisherige Arbeit integrieren, das heisst, es soll an Ihrem Arbeitsprozess erkennbar sein, wie Sie die Aufgabe **<ins>vor** und **<ins>nach** dem Erhalt des Hints bearbeitet haben.
+Ihr Element ist: 
 
+<p align="center" width="100%">
+    <img width="23%" src="docs/hint.png"
+</p>
+
+<!-- ![hint](docs/hint.png) -->
 
 #### Clarification
 Für ein Endprodukt fehlt die Zeit, also ist es das Konzept.
