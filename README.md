@@ -27,6 +27,7 @@
 
 
 #### Checklist [[To-Do]]:
+- [ ] Clean document of concept --> [[Concept]]
 - [ ] Sketch of idea
 - [ ] Mockup of final screen (couple of scenes, buttons etc)
 - [ ] 200 words text --> brief overview of idea, mechanics, design philosophy etc 
@@ -38,15 +39,18 @@ ___
 
 <!-- ![idea](Ideas/mindmapPNG/coreidea.png) -->
 ![idea](Ideas/mindmapPNG/coreidea2.png)
+
 ___
 ![mindmap2](Ideas/mindmapPNG/mindmap2.png)
+
+___
+![mockup2](Ideas/mindmapPNG/mockup2.svg)
+
 ___
 ![mockup1](Ideas/mindmapPNG/mockup1.png)
 
-![mockup2](Ideas/mindmapPNG/mockup2.svg)
 ___ 
 <!-- ![mindmap1](Ideas/mindmapPNG/mindmap_new3.png) -->
-___
 
 ### <ins>Aufgabenstellung
 
