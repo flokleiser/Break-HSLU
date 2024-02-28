@@ -27,3 +27,4 @@ ___
 - [ ] Cabin/fireplace
 - [ ] Snowy/Advent town
 
+- checks when stressed
