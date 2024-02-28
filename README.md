@@ -42,6 +42,8 @@ ___
 ![mindmap2](Ideas/mindmapPNG/mindmap2.png)
 ___
 ![mockup1](Ideas/mindmapPNG/mockup1.png)
+
+![mockup2](Ideas/mindmapPNG/mockup2.svg)
 ___ 
 <!-- ![mindmap1](Ideas/mindmapPNG/mindmap_new3.png) -->
 ___
@@ -71,7 +73,12 @@ soll in Wort (≤ 200 Wörter) und Bild so dargestellt werden, dass sich der Jur
 Während der Bearbeitungszeit schicken wir Ihnen einen Hinweis ("hint") zur Konkretisierung zu. Sie sind dann aufgefordert, Ihre bisherige Arbeit möglichst sinnvoll und überzeugend auf diesen "hint" neu auszurichten.
 Dieses Element sollen Sie möglichst gut in Ihre bisherige Arbeit integrieren, das heisst, es soll an Ihrem Arbeitsprozess erkennbar sein, wie Sie die Aufgabe **<ins>vor** und **<ins>nach** dem Erhalt des Hints bearbeitet haben.
 Ihr Element ist: 
-![hint](docs/hint.png)
+
+<p align="center" width="100%">
+    <img width="23%" src="docs/hint.png"
+</p>
+
+<!-- ![hint](docs/hint.png) -->
 
 #### Clarification
 Für ein Endprodukt fehlt die Zeit, also ist es das Konzept.
