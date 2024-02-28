@@ -69,8 +69,9 @@ soll in Wort (≤ 200 Wörter) und Bild so dargestellt werden, dass sich der Jur
 
 #### 3.	Hint
 Während der Bearbeitungszeit schicken wir Ihnen einen Hinweis ("hint") zur Konkretisierung zu. Sie sind dann aufgefordert, Ihre bisherige Arbeit möglichst sinnvoll und überzeugend auf diesen "hint" neu auszurichten.
-<br/>
-
+Dieses Element sollen Sie möglichst gut in Ihre bisherige Arbeit integrieren, das heisst, es soll an Ihrem Arbeitsprozess erkennbar sein, wie Sie die Aufgabe **<ins>vor** und **<ins>nach** dem Erhalt des Hints bearbeitet haben.
+Ihr Element ist: 
+![hint](docs/hint.png)
 
 #### Clarification
 Für ein Endprodukt fehlt die Zeit, also ist es das Konzept.
