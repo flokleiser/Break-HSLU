@@ -26,7 +26,8 @@ ___
     - more visuals
     - "space out" in your thoughts
 
-#### <ins>Design Concept
+#### <ins>Design 
+
 
 - <ins> Scenes
   - Different environments
@@ -39,8 +40,7 @@ ___
   - Choose break "interval" or "threshhold"
   - Write down notes --> to remember where you were
 
- ___
-
+___
 #### PDF
  - [ ] Visually depict break
     - [ ] ?
