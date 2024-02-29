@@ -1,7 +1,7 @@
 # To-Do List
 ___
 #### Concept
-- [x] Figure out a theme --> Work/Break balance, fliessender übergan
+- [x] Figure out a theme --> Work/Break balance, mix of both
 
 - [ ] Figure out how to implement hint:
   - windowframe(?)
@@ -9,45 +9,34 @@ ___
   - How it checks if you need a break
   - Sensors
 
+- [ ] Color scheme for ui
+
+- List of buzzwords:
+  - test
 
 
 ___
 #### PDF
-- [ ] 200 words
-- [ ] Mockup
-- [ ] Concept art
+
+- [ ] Visually depict break
+    - [ ] ?
+
+- [ ] Concept
+    - [ ] 200 words
+    - [ ] Mockup
+    - [ ] Concept art
 
 ___
 #### Scenes
 - [x] Old town
 - [x] Ocean
 - [x] Forest/Nature
-
-- [ ] Industrial/Neon city
+- [x] Industrial/Neon city
 
 - [ ] Rainy city
 - [ ] Lakefront summer day
 - [ ] Cabin/fireplace
 - [ ] Snowy/Advent town
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ___
 #### If time:
