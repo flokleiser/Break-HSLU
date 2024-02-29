@@ -71,21 +71,19 @@ ___
     - [ ] Shorten Sketches
     - [ ] Shorten Animations
 - [ ] More unified project description (time, project, title etc)
-- [ ]
+___
+
+### Mockup
+
+![mockup2](Ideas/mindmapPNG/mockup2.svg)
+![mockup1](Ideas/mindmapPNG/mockup1.png)
 ___
 
 ### Mindmap
 
 ![idea](Ideas/mindmapPNG/coreidea2.png)
-
-___
-![mockup2](Ideas/mindmapPNG/mockup2.svg)
-
-___
 ![mindmap2](Ideas/mindmapPNG/mindmap2.png)
 
-___
-![mockup1](Ideas/mindmapPNG/mockup1.png)
 
 ___
 
