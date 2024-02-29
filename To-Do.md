@@ -11,11 +11,6 @@ ___
 
 - [ ] Color scheme for ui
 
-- List of buzzwords:
-  - test
-
-
-___
 #### PDF
 
 - [ ] Visually depict break
@@ -25,6 +20,11 @@ ___
     - [ ] 200 words
     - [ ] Mockup
     - [ ] Concept art
+
+___
+
+- List of buzzwords:
+      - test
 
 ___
 #### Scenes

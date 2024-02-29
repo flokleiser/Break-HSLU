@@ -26,7 +26,7 @@
 <br>
 
 
-#### Checklist [[To-Do]]:
+#### Final Checklist [[To-Do]]:
 - [ ] Clean document of concept --> [[Concept]]
 - [ ] Sketch of idea
 - [ ] Mockup of final screen (couple of scenes, buttons etc)
