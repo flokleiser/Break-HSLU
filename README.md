@@ -41,10 +41,10 @@ ___
 ![idea](Ideas/mindmapPNG/coreidea2.png)
 
 ___
-![mindmap2](Ideas/mindmapPNG/mindmap2.png)
+![mockup2](Ideas/mindmapPNG/mockup2.svg)
 
 ___
-![mockup2](Ideas/mindmapPNG/mockup2.svg)
+![mindmap2](Ideas/mindmapPNG/mindmap2.png)
 
 ___
 ![mockup1](Ideas/mindmapPNG/mockup1.png)
