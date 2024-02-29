@@ -1,14 +1,6 @@
 # To-Do List
 ___
 #### Concept
-- [x] Figure out a theme --> Work/Break balance, mix of both
-
-- [ ] Figure out how to implement hint:
-  - windowframe(?)
-  - Data, graphs
-  - How it checks if you need a break
-  - Sensors
-
 - [ ] Color scheme for ui
 
 #### PDF
