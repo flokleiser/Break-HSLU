@@ -7,6 +7,7 @@ ___
 ### Mockup
 
 ![mockup2](Ideas/mindmapPNG/mockup2.svg)
+___
 ![mockup1](Ideas/mindmapPNG/mockup1.png)
 ___
 
