@@ -11,7 +11,7 @@ ___
 ![mockup1](Ideas/mindmapPNG/mockup1.png)
 ___
 
-### Concept outline
+### Concept outline (text)
 
 #### <ins>Idea
 
@@ -62,10 +62,38 @@ ___
   - Choose break "interval" or "threshhold"
   - Write down notes --> to remember where you were
 
+### To-Do:
 
+> #### PDF:
+> - [ ] **Visually depict break**
+>    - [ ] Image/Drawing of break --> window trace thing 
+>
+><br>
+>
+>- [ ] **Concept**
+>   - [x] Figure out a theme --> Work/Break balance, mix of both
+>   - [ ] Research how concepts look
+>   - [ ] Figure out what i need in the concept:
+>     - [x] mockup of screen 
+>     - [ ] 200 words of explanation 
+>     - [ ] brief overview of idea, mechanics, design philosophy etc 
+>     - [ ] explanation of technical details (sensors or data etc)
+>     - [ ] Ideas for future expansion (?)
+>  <br>
+>
+>    - [ ] Figure out how to implement hint:
+>      - windowframe(?)
+>      - Data, graphs
+>      - How it checks if you need a break
+>      - Sensors
+>
+>   - [ ] Visuals
+>     - [x] Sketch of idea
+>     - [x] Mockup of final screen (couple of scenes, buttons etc)
+>     - [x] Mindmap of ideas
 
 ### Concept 200 words:
-> placeholder for the actual 200 words
+        200 words
 
 
 ### Mindmap
@@ -74,32 +102,7 @@ ___
 ![mindmap2](Ideas/mindmapPNG/mindmap2.png)
 ___
 
-#### PDF
- - [ ] Visually depict break
-    - [ ] ?
-
-- [ ] Concept
-    - [ ] 200 words
-    - [x] Mockup
-    - [x] Concept art
-___
-
-#### Final Checklist:
-- [x] Figure out a theme --> Work/Break balance, mix of both
-- [ ] Clean document of concept --> [[#Concept]]
-- [ ] Figure out how to implement hint:
-  - windowframe(?)
-  - Data, graphs
-  - How it checks if you need a break
-  - Sensors
-- [ ] Sketch of idea
-- [ ] Mockup of final screen (couple of scenes, buttons etc)
-- [ ] 200 words text --> brief overview of idea, mechanics, design philosophy etc 
-- [x] Mindmap of ideas
-
-___
-
-#### If time:
+#### To-Do (if time):
 - [ ] Shorten portfolio (to 20 pages)
     - [ ] Shorten Sketches
     - [ ] Shorten Animations
@@ -139,10 +142,12 @@ ___
 Das diesjährige Thema lautet: "I took a break".
 "Also, man kann sich in einen Sessel setzen – ich sitze furchtbar gern im Sessel und döse – und davon schweben. Manchmal, vor allem wenn ich einschlafe oder mit geschlossenen Augen dasitze … schwebe ich durch diesen speziellen Raum, in dem die Bilder von selbst auftauchen, ohne mein Zutun. Sobald ich darüber nachdenke, ist es vorbei." David Lynch, in: Chris Rodley (Hrsg.), Lynch über Lynch, 2006, S. 30.
 Was tun Sie, um zu regenerieren, sich eine Auszeit zu nehmen? "Breaks" dauern kurz oder länger, sie brauchen meistens einen geschützten Ort, finden nachts oder tagsüber statt, können gemessen werden, sind manchmal zu viel oder zu wenig, sind Wach- oder Schlafzustände oder etwas dazwischen.
-- a.	Stellen Sie uns in einem ersten Schritt einen Ihrer "breaks" in Bildern vor. Studieren Sie ihn, machen Sie ihn sichtbar, übersetzen Sie ihn grafisch, wobei Sie seine spezifischen Eigenschaften herausarbeiten und in visueller Form nachvollziehbar machen.
+
+- a.	Stellen Sie uns in einem ersten Schritt einen Ihrer "breaks" in Bildern vor. **Studieren Sie ihn, machen Sie ihn sichtbar, übersetzen Sie ihn grafisch**, wobei Sie seine **spezifischen Eigenschaften herausarbeiten** und in **visueller Form nachvollziehbar machen**.
+
 - b.	Entwerfen Sie dann ausgehende von diesen Eigenschaften ein Konzept
     - i.	ENTWEDER für ein Game, das in die Welt Ihres "break" entführt,
-    - ii.	ODER für eine digitale Anwendung, die Sie und andere darin unterstützt, die regenerativen Qualitäten Ihrer Art von “break” optimal zu nutzen oder zu trainieren.
+    - ii.	ODER für eine digitale Anwendung, die Sie und andere darin unterstützt, die **regenerativen Qualitäten Ihrer Art von “break” optimal zu nutzen oder zu trainieren**.
 <br/>
 
 #### 2. Form
