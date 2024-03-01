@@ -65,7 +65,8 @@ ___
 
 
 ### Concept 200 words:
-> placeholder for the actual 200 words
+<!-- > placeholder for the actual 200 words -->
+        200 words
 
 
 ### Mindmap
