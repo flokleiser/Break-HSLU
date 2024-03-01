@@ -80,8 +80,8 @@ ___
 
 - [ ] Concept
     - [ ] 200 words
-    - [ ] Mockup
-    - [ ] Concept art
+    - [x] Mockup
+    - [x] Concept art
 ___
 
 #### Final Checklist:
