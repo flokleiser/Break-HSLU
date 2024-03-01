@@ -1,46 +1,78 @@
 # Hausaufgabe Digital Ideation 2024
 ___
-### Concept
+
+### Idea
+- App/tool that helps with stress and focus while working, and that helps with remembering to take breaks. Helps to focus with nice environments and sounds, and reminds you of a break when a certain amount of time has passed or when youre starting to get tired.
+
+### Mockup
+
+![mockup2](Ideas/mindmapPNG/mockup2.svg)
+![mockup1](Ideas/mindmapPNG/mockup1.png)
+___
+
+### Concept outline
 
 #### <ins>Idea
-- Virtual window
-- For me specifically (or people with adhd or "time blindness")
-- To space out and focus, and take breaks
+
+- **Virtual window**
+  - central "theme" that ties it together
+
+- **For me specifically**
+  - (people with adhd)
+  - time blindness (?)
+
+- **To space out and focus, and take breaks**
 
 #### <ins>Function
-- **background atmosphere/environment while working**
-- **Two kinds of breaks:**
-  - <ins> Passive break
-    - relaxing background noises
-    - not too distracting
-    - lets you sink in work without checking the clock or thinking about having to take a break
-    - Adapts the sounds to the "mood"/stress level/noise around
-    - gives the feeling that youre working somewhere more relaxing
 
-  - <ins> Active break
-    - sense when you need a break (or reminds you after a set amount of time)
-      - Variable heart rate
-      - puls etc
-      - microphone (breathing rate, chair moving, other noises)
-    - notes/voice memo to write down/record before break, and get reminded after break 
-    - more visuals
-    - "space out" in your thoughts
+- **Background atmosphere/environment while working**
+  - Calm, ambient, nostalgic
+
+- **Passive break**
+  - relaxing background noises  
+  - not too distracting
+  - lets you sink in work without checking the clock or thinking about having to take a break
+  - Adapts the sounds to the "mood"/stress level/noise around
+  - gives the feeling that youre working somewhere more relaxing
+
+- **Active break**
+  - more visual
+  - "space out" in your thoughts
+  - write down notes   
+
+- **Productivity tools/helpful stuff to take breaks (?)**
+  - notes/voice memo to write down/record before break, and get reminded after break 
+  - sense when you need a break (or reminds you after a set amount of time)
+    - Variable heart rate
+    - puls etc
+    - microphone (breathing rate, chair moving, other noises)
 
 #### <ins>Design 
 
 
-- <ins> Scenes
-  - Different environments
+- **Scenes**
+  - Different environments, weather, season, time of day
 
-- <ins> Sounds
+- **Sounds**
   - Background noise/"brown noise" to fit with scene and to relax
 
-- <ins> UI/UX
+- **UI/UX**
   - Choose scenery, time of day, weather, season
   - Choose break "interval" or "threshhold"
   - Write down notes --> to remember where you were
 
+
+
+### Concept 200 words:
+> placeholder for the actual 200 words
+
+
+### Mindmap
+
+![idea](Ideas/mindmapPNG/coreidea2.png)
+![mindmap2](Ideas/mindmapPNG/mindmap2.png)
 ___
+
 #### PDF
  - [ ] Visually depict break
     - [ ] ?
@@ -73,19 +105,7 @@ ___
 - [ ] More unified project description (time, project, title etc)
 ___
 
-### Mockup
-
-![mockup2](Ideas/mindmapPNG/mockup2.svg)
-![mockup1](Ideas/mindmapPNG/mockup1.png)
-___
-
-### Mindmap
-
-![idea](Ideas/mindmapPNG/coreidea2.png)
-![mindmap2](Ideas/mindmapPNG/mindmap2.png)
-
-
-___
+<br>
 
 ### <ins>TL:DR Aufgabenstellung:
 
