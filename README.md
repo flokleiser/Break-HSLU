@@ -74,30 +74,33 @@ ___
 ![mindmap2](Ideas/mindmapPNG/mindmap2.png)
 ___
 
-#### PDF
- - [ ] Visually depict break
-    - [ ] ?
+### To-Do:
 
-- [ ] Concept
-    - [ ] 200 words
-    - [x] Mockup
-    - [x] Concept art
-___
+> #### PDF:
+> - [ ] **Visually depict break**
+>    - [ ] Image/Drawing of break --> window trace thing 
+>
+><br>
+>
+>- [ ] **Concept**
+>  - [ ] Research how concepts look
+>  <br>
+>  - [x] Figure out a theme --> Work/Break balance, mix of both
+>  - [ ] 200 words text --> brief overview of idea, mechanics, design philosophy etc 
+>    - [ ] 200 words
+>    - [ ] Figure out how to implement hint:
+>      - windowframe(?)
+>      - Data, graphs
+>      - How it checks if you need a break
+>      - Sensors
+>
+>  - [ ] Visuals
+>    - [x] Sketch of idea
+>    - [x] Mockup of final screen (couple of scenes, buttons etc)
+>    - [x] Mindmap of ideas
 
-#### Final Checklist:
-- [x] Figure out a theme --> Work/Break balance, mix of both
-- [ ] Clean document of concept --> [[#Concept]]
-- [ ] Figure out how to implement hint:
-  - windowframe(?)
-  - Data, graphs
-  - How it checks if you need a break
-  - Sensors
-- [ ] Sketch of idea
-- [ ] Mockup of final screen (couple of scenes, buttons etc)
-- [ ] 200 words text --> brief overview of idea, mechanics, design philosophy etc 
-- [x] Mindmap of ideas
 
-___
+<br>
 
 #### If time:
 - [ ] Shorten portfolio (to 20 pages)
