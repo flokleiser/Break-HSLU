@@ -11,7 +11,7 @@ ___
 ![mockup1](Ideas/mindmapPNG/mockup1.png)
 ___
 
-### Concept outline (text)
+### Concept first draft
 
 #### <ins>Idea
 
@@ -25,7 +25,6 @@ ___
 - **To space out and focus, and take breaks**
 
 #### <ins>Function
-
 - **Background atmosphere/environment while working**
   - Calm, ambient, nostalgic
 
@@ -49,8 +48,6 @@ ___
     - microphone (breathing rate, chair moving, other noises)
 
 #### <ins>Design 
-
-
 - **Scenes**
   - Different environments, weather, season, time of day
 
@@ -82,7 +79,7 @@ ___
 >  <br>
 >
 >    - [ ] Figure out how to implement hint:
->      - windowframe(?)
+>      - **windowframe(?)**
 >      - Data, graphs
 >      - How it checks if you need a break
 >      - Sensors
@@ -91,6 +88,7 @@ ___
 >     - [x] Sketch of idea
 >     - [x] Mockup of final screen (couple of scenes, buttons etc)
 >     - [x] Mindmap of ideas
+>     - [ ] Photoshop mockup
 
 ### Concept 200 words:
         200 words
