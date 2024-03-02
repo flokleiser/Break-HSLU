@@ -1,27 +1,3 @@
-# Concept outline 
-
-1. Herleitung: was ist ein "break" für mich
-
-2. Wie es hilft, die regenerativen qualitäten des breaks zu nutzen/trainieren 
-
-3. Welches medium/wieso 
-
-
-
-
-
-___
-Virtual window
-
-
-Training to take breaks --> with sensors to see when youre stressed, or fidgety
-
-relaxing atmosphere
-
-___
-
-### Concept buzzwords 
-
 #### <ins>Idea
 
 - **Virtual window**

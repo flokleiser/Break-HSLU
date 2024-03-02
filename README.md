@@ -13,85 +13,40 @@ ___
 
 ### Concept first draft
 
-#### <ins>Idea
+1. **What is a "break" for me**
+   - Relaxing sounds and visuals
+   - Not worry about work or time
+   - comfortable atmosphere (rain, snow, nature, etc)
 
-- **Virtual window**
-  - central "theme" that ties it together
+2. **How it helps to use/train the regenerative qualities of my break**
+    - <ins>**On startup/launch**:
+        - input the total time you want to work for
+        - optional: input the "interval" or "threshold" of breaks 
 
-- **For me specifically**
-  - (people with adhd)
-  - time blindness (?)
+    - <ins>**Idle**:
+        - active in the background
+        - calming background noises
+        - detects if you start to move around on your chair
+        - detects if variable heart rate indicates stress
+        - detects if inputs are less (mouse clicks, keyboard)
 
-- **To space out and focus, and take breaks**
+    - <ins> **Active** (when it detects the need for a break)
+        - louder background noises
+        - maybe audio cue
+        - visuals on the screen
+        - function to write down what you were working on, so you dont have to think about it during break
+        - pulls your focus away from work and onto the scenery
+        - makes you put stress etc into context (insignificant etc)
+        - puts you back in work mode after a few minutes
 
-#### <ins>Function
-- **Background atmosphere/environment while working**
-  - Calm, ambient, nostalgic
+    - <ins>**Over time**:
+        - learns your optimal work/break interval
+        - learns your preferred sounds/scenes
 
-- **Passive break**
-  - relaxing background noises  
-  - not too distracting
-  - lets you sink in work without checking the clock or thinking about having to take a break
-  - Adapts the sounds to the "mood"/stress level/noise around
-  - gives the feeling that youre working somewhere more relaxing
-
-- **Active break**
-  - more visual
-  - "space out" in your thoughts
-  - write down notes   
-
-- **Productivity tools/helpful stuff to take breaks (?)**
-  - notes/voice memo to write down/record before break, and get reminded after break 
-  - sense when you need a break (or reminds you after a set amount of time)
-    - Variable heart rate
-    - puls etc
-    - microphone (breathing rate, chair moving, other noises)
-
-#### <ins>Design 
-- **Scenes**
-  - Different environments, weather, season, time of day
-
-- **Sounds**
-  - Background noise/"brown noise" to fit with scene and to relax
-
-- **UI/UX**
-  - Choose scenery, time of day, weather, season
-  - Choose break "interval" or "threshhold"
-  - Write down notes --> to remember where you were
-
-### To-Do:
-
-> #### PDF:
-> - [ ] **Visually depict break**
->    - [ ] Image/Drawing of break --> window trace thing 
->
-><br>
->
->- [ ] **Concept**
->   - [x] Figure out a theme --> Work/Break balance, mix of both
->   - [ ] Research how concepts look
->   - [ ] Figure out what i need in the concept:
->     - [x] mockup of screen 
->     - [ ] 200 words of explanation 
->     - [ ] brief overview of idea, mechanics, design philosophy etc 
->     - [ ] explanation of technical details (sensors or data etc)
->     - [ ] Ideas for future expansion (?)
->  <br>
->
->    - [ ] Figure out how to implement hint:
->      - **windowframe(?)**
->      - Data, graphs
->      - How it checks if you need a break
->      - Sensors
->
->   - [ ] Visuals
->     - [x] Sketch of idea
->     - [x] Mockup of final screen (couple of scenes, buttons etc)
->     - [x] Mindmap of ideas
->     - [ ] Photoshop mockup
-
-### Concept 200 words:
-        200 words
+3. **Which medium (and why)**
+   - App/Website, ease of use, whatever device
+   - Digital, for the sensors 
+___
 
 
 ### Mindmap
