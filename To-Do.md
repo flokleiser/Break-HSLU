@@ -17,6 +17,14 @@
     - [ ] evtl Photoshop mockup
 
 
+___
+#### To-Do (if time):
+- [ ] Shorten portfolio (to 20 pages)
+    - [ ] Shorten Sketches
+    - [ ] Shorten Animations
+- [ ] More unified project description (time, project, title etc)
+___
+
 
 ### To-Do:
 

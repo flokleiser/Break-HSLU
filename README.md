@@ -54,16 +54,6 @@ ___
 ![idea](Ideas/mindmapPNG/coreidea2.png)
 ![mindmap2](Ideas/mindmapPNG/mindmap2.png)
 ___
-
-#### To-Do (if time):
-- [ ] Shorten portfolio (to 20 pages)
-    - [ ] Shorten Sketches
-    - [ ] Shorten Animations
-- [ ] More unified project description (time, project, title etc)
-___
-
-<br>
-
 ### <ins>TL:DR Aufgabenstellung:
 
 #### Thema:    "<ins>I took a break</ins>" 
