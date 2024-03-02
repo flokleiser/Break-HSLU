@@ -6,6 +6,7 @@
 
 - <ins>Break
   - [ ] Window sketch
+    - [ ] Combination photo & sketch --> highlight the parts that make the image a "break"
 
 - <ins>Concept
     - [x] Mockup sketch
@@ -16,46 +17,19 @@
     - [ ] Infographics for features 
     - [ ] evtl Photoshop mockup
 
+    - [ ] brief overview of idea, mechanics, design philosophy etc 
+
+- [ ] Figure out how to implement hint:
+    - **windowframe(?)**
+    - Data, graphs
+    - How it checks if you need a break
+    - Sensors
 
 ___
+
 #### To-Do (if time):
 - [ ] Shorten portfolio (to 20 pages)
     - [ ] Shorten Sketches
     - [ ] Shorten Animations
 - [ ] More unified project description (time, project, title etc)
 ___
-
-
-### To-Do:
-
-> #### PDF:
-> - [ ] **Visually depict break**
->    - [ ] Image/Drawing of break --> window trace thing 
->
-><br>
->
->- [ ] **Concept**
->   - [x] Figure out a theme --> Work/Break balance, mix of both
->   - [ ] Research how concepts look
->   - [ ] Figure out what i need in the concept:
->     - [x] mockup of screen 
->     - [ ] 200 words of explanation 
->     - [ ] brief overview of idea, mechanics, design philosophy etc 
->     - [ ] explanation of technical details (sensors or data etc)
->     - [ ] Ideas for future expansion (?)
->  <br>
->
->    - [ ] Figure out how to implement hint:
->      - **windowframe(?)**
->      - Data, graphs
->      - How it checks if you need a break
->      - Sensors
->
->   - [ ] Visuals
->     - [x] Sketch of idea
->     - [x] Mockup of final screen (couple of scenes, buttons etc)
->     - [x] Mindmap of ideas
->     - [ ] Photoshop mockup
-
-### Concept 200 words:
-        200 words
