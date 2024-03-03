@@ -8,6 +8,26 @@
   - [ ] Window sketch
     - [ ] Combination photo & sketch --> highlight the parts that make the image a "break"
 
+    - [ ] Night
+        - [x] Stars
+        - [x] Moon
+        - [x] Colorful lights
+        - [ ] Northern lights
+        - [ ] ufo (?)
+
+    - [ ] Day
+        - [ ] Plants
+        - [ ] Open window
+        - [ ] Blanket hanging out 
+        - [x] Airplanes
+        - [x] Birds
+
+    - [ ] Cloudy
+        - [x] Clouds
+        - [ ] Rain
+        - [ ] Smoking chimney
+
+
 - <ins>Concept
     - [x] Mockup sketch
         - [ ] Add smartwatch/phone
