@@ -24,13 +24,16 @@ ___
         - optional: input the "interval" or "threshold" of breaks 
 
     - <ins>**Idle**:
+        - input the total time you want to work for
+        - optional: input the "interval" or "threshold" of breaks 
+        <br>
         - active in the background
         - calming background noises
         - detects if you start to move around on your chair
         - detects if variable heart rate indicates stress
         - detects if inputs are less (mouse clicks, keyboard)
 
-    - <ins> **Active** (when it detects the need for a break)
+    - <ins> **Active (break mode)** 
         - louder background noises
         - maybe audio cue
         - visuals on the screen
@@ -38,10 +41,7 @@ ___
         - pulls your focus away from work and onto the scenery
         - makes you put stress etc into context (insignificant etc)
         - puts you back in work mode after a few minutes
-
-    - <ins>**Over time**:
-        - learns your optimal work/break interval
-        - learns your preferred sounds/scenes
+        - learns your optimal work/break interval and preferred sounds/scenes over time
 
 3. **Which medium (and why)**
    - App/Website, ease of use, whatever device

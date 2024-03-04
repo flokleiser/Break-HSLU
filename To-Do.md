@@ -1,12 +1,10 @@
-# Text
-- [ ] outline concept --> [[concept buzzwords]]
-- [ ] 200 words max concept
+# <ins>TO-DO HSLU AUFGABE
 
-# Visuals
+### <ins>Visuals
 
-- <ins>Break
+- <ins>Break visualisation
   - [ ] Window sketch
-    - [ ] Combination photo & sketch --> highlight the parts that make the image a "break"
+    - [x] Combination photo & sketch --> highlight the parts that make the image a "break"
 
     - [ ] Night
         - [x] Stars
@@ -16,7 +14,7 @@
         - [ ] ufo (?)
 
     - [ ] Day
-        - [ ] Plants
+        - [x] Plants
         - [ ] Open window
         - [ ] Blanket hanging out 
         - [x] Airplanes
@@ -30,14 +28,22 @@
 
 - <ins>Concept
     - [x] Mockup sketch
-        - [ ] Add smartwatch/phone
-        - [ ] Zoomed in version of buttons
     - [ ] User journey (?) 
         - [ ] storyboard
     - [ ] Infographics for features 
     - [ ] evtl Photoshop mockup
+        - [ ] Add smartwatch/phone
+        - [ ] Zoomed in version of buttons
 
     - [ ] brief overview of idea, mechanics, design philosophy etc 
+
+___
+
+### <ins> Text
+- [ ] outline concept --> [[concept buzzwords]]
+- [ ] 200 words max concept
+
+<br>
 
 - [ ] Figure out how to implement hint:
     - **windowframe(?)**
