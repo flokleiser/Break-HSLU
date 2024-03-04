@@ -24,9 +24,6 @@ ___
         - optional: input the "interval" or "threshold" of breaks 
 
     - <ins>**Idle**:
-        - input the total time you want to work for
-        - optional: input the "interval" or "threshold" of breaks 
-        <br>
         - active in the background
         - calming background noises
         - detects if you start to move around on your chair
