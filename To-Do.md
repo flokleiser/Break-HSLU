@@ -1,10 +1,11 @@
 # <ins>TO-DO HSLU AUFGABE
 
 Monday: 
-- [x] Finish visualisation of break
-- [ ] Smart watch sketch
-- [ ] Logo app
 - [x] Create .ai file of Concept PDF 
+- [x] Finish visualisation of break
+- [ ] **Smart watch sketch**
+    - [ ] Finish mockup sketch
+- [ ] Logo app
 
 ___
 
@@ -13,6 +14,8 @@ ___
 - <ins>Break visualisation
   - [x] Window sketch
     - [x] Combination photo & sketch --> highlight the parts that make the image a "break"
+
+    - [ ] Add some more things to list
 
     - [x] Night
         - [x] Stars
@@ -23,7 +26,7 @@ ___
         - [ ] ufo (?)
 
     - [ ] Day
-        - [ ] Umbrella
+        - [x] Umbrella
         - [x] Plants
         - [x] Open window
         - [x] Blanket hanging out 
@@ -34,6 +37,7 @@ ___
         - [x] Clouds
         - [x] Rain
         - [ ] Smoking chimney
+        - [ ] Cat sitting on roof with umbrella (?)
 
 
 - <ins>Concept
