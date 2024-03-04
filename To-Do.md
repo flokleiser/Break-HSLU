@@ -41,6 +41,7 @@ ___
         - [x] Airplanes
         - [x] Birds
         - [ ] Shadows
+        - [ ] Blimp with "visualisation of my break" written on it
 
     - [ ] Cloudy
         - [x] Clouds
