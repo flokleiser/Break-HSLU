@@ -8,7 +8,12 @@ ___
 ___
 
 ### Idea
+
+- Helps when having trouble getting away from work, and trouble getting back into work (adhd)
+
 - App/tool that helps with stress and focus while working, and that helps with remembering to take breaks. Helps to focus with nice environments and sounds, and reminds you of a break when a certain amount of time has passed or when youre starting to get tired.
+
+
 
 
 ### Concept first draft
