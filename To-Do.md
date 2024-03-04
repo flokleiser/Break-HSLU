@@ -54,6 +54,7 @@ ___
 <br>
 
 - [ ] Figure out how to implement hint:
+    - --> App icon? something like that
     - **windowframe(?)**
     - Data, graphs
     - How it checks if you need a break
