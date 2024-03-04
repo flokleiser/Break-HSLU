@@ -1,15 +1,16 @@
 # <ins>TO-DO HSLU AUFGABE
 
 Monday: 
-- [ ] Finish visualisation of break
-- [ ] Maybe start photoshop mockup?
+- [x] Finish visualisation of break
+- [ ] Logo app
+- [x] Create .ai file of Concept PDF 
 
 ___
 
 ### <ins>Visuals
 
 - <ins>Break visualisation
-  - [ ] Window sketch
+  - [x] Window sketch
     - [x] Combination photo & sketch --> highlight the parts that make the image a "break"
 
     - [x] Night
@@ -30,18 +31,19 @@ ___
 
     - [ ] Cloudy
         - [x] Clouds
-        - [ ] Rain
+        - [x] Rain
         - [ ] Smoking chimney
 
 
 - <ins>Concept
+    - [ ] Logo app
     - [x] Mockup sketch
     - [ ] User journey (?) 
         - [ ] storyboard
     - [ ] Infographics for features 
     - [ ] evtl Photoshop mockup
         - [ ] Add smartwatch/phone
-        - [ ] Zoomed in version of buttons
+        - [x] Zoomed in version of buttons
 
     - [ ] brief overview of idea, mechanics, design philosophy etc 
 
