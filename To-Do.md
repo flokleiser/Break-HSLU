@@ -3,9 +3,17 @@
 Monday: 
 - [x] Create .ai file of Concept PDF 
 - [x] Finish visualisation of break
-- [ ] **Smart watch sketch**
-    - [ ] Finish mockup sketch
-- [ ] Logo app
+- [x] **Smart watch sketch**
+    - [x] Finish mockup sketch
+- [x] Logo app
+
+Tuesday:
+- [ ] Decide if i need new mindmap or not
+  - pros: 
+    - Easy way of showcasing concept
+
+  - cons:
+    - not sure if needed, or if distracting
 
 ___
 
@@ -17,7 +25,7 @@ ___
 
     - [ ] Add some more things to list
 
-    - [x] Night
+    - [ ] Night
         - [x] Stars
         - [x] Moon
         - [x] Colorful lights
@@ -32,22 +40,23 @@ ___
         - [x] Blanket hanging out 
         - [x] Airplanes
         - [x] Birds
+        - [ ] Shadows
 
     - [ ] Cloudy
         - [x] Clouds
         - [x] Rain
         - [ ] Smoking chimney
-        - [ ] Cat sitting on roof with umbrella (?)
+        - [x] Cat sitting on roof with umbrella (?)
+        - [ ] More animals
 
 
 - <ins>Concept
-    - [ ] Logo app
+    - [x] Logo app
     - [x] Mockup sketch
     - [ ] User journey (?) 
         - [ ] storyboard
     - [ ] Infographics for features 
-    - [ ] evtl Photoshop mockup
-        - [ ] Add smartwatch/phone
+        - [x] Add smartwatch/phone
         - [x] Zoomed in version of buttons
 
     - [ ] brief overview of idea, mechanics, design philosophy etc 
@@ -55,12 +64,13 @@ ___
 ___
 
 ### <ins> Text
-- [ ] outline concept --> [[concept buzzwords]]
+- [x] outline concept --> [[concept buzzwords]]
 - [ ] 200 words max concept
+- [ ] Figure out if i want the 200 words distributed or if i want a block of text
 
 <br>
 
-- [ ] Figure out how to implement hint:
+- [x] Figure out how to implement hint:
     - --> App icon? something like that
     - **windowframe(?)**
     - Data, graphs
