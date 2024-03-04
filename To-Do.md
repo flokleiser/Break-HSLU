@@ -2,6 +2,7 @@
 
 Monday: 
 - [x] Finish visualisation of break
+- [ ] Smart watch sketch
 - [ ] Logo app
 - [x] Create .ai file of Concept PDF 
 
