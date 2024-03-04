@@ -1,15 +1,15 @@
 # Hausaufgabe Digital Ideation 2024
 ___
 
-### Idea
-- App/tool that helps with stress and focus while working, and that helps with remembering to take breaks. Helps to focus with nice environments and sounds, and reminds you of a break when a certain amount of time has passed or when youre starting to get tired.
-
 ### Mockup
 
 ![mockup2](Ideas/mindmapPNG/mockup2.svg)
+
 ___
-![mockup1](Ideas/mindmapPNG/mockup1.png)
-___
+
+### Idea
+- App/tool that helps with stress and focus while working, and that helps with remembering to take breaks. Helps to focus with nice environments and sounds, and reminds you of a break when a certain amount of time has passed or when youre starting to get tired.
+
 
 ### Concept first draft
 
@@ -50,6 +50,9 @@ ___
 
 ![idea](Ideas/mindmapPNG/coreidea2.png)
 ![mindmap2](Ideas/mindmapPNG/mindmap2.png)
+___
+
+![mockup1](Ideas/mindmapPNG/mockup1.png)
 ___
 ### <ins>TL:DR Aufgabenstellung:
 
