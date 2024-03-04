@@ -51,6 +51,7 @@ ___
 ![idea](Ideas/mindmapPNG/coreidea2.png)
 ![mindmap2](Ideas/mindmapPNG/mindmap2.png)
 ___
+![logo](Ideas/mindmapPNG/logo.png)
 
 ![mockup1](Ideas/mindmapPNG/mockup1.png)
 ___
