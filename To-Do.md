@@ -1,22 +1,30 @@
 # <ins>TO-DO HSLU AUFGABE
 
+Monday: 
+- [ ] Finish visualisation of break
+- [ ] Maybe start photoshop mockup?
+
+___
+
 ### <ins>Visuals
 
 - <ins>Break visualisation
   - [ ] Window sketch
     - [x] Combination photo & sketch --> highlight the parts that make the image a "break"
 
-    - [ ] Night
+    - [x] Night
         - [x] Stars
         - [x] Moon
         - [x] Colorful lights
+        - [x] Milky way
         - [ ] Northern lights
         - [ ] ufo (?)
 
     - [ ] Day
+        - [ ] Umbrella
         - [x] Plants
-        - [ ] Open window
-        - [ ] Blanket hanging out 
+        - [x] Open window
+        - [x] Blanket hanging out 
         - [x] Airplanes
         - [x] Birds
 
