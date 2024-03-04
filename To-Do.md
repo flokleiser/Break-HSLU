@@ -1,45 +1,67 @@
-# Text
-- [ ] outline concept --> [[concept buzzwords]]
-- [ ] 200 words max concept
+# <ins>TO-DO HSLU AUFGABE
 
-# Visuals
+Monday: 
+- [x] Create .ai file of Concept PDF 
+- [x] Finish visualisation of break
+- [ ] **Smart watch sketch**
+    - [ ] Finish mockup sketch
+- [ ] Logo app
 
-- <ins>Break
-  - [ ] Window sketch
-    - [ ] Combination photo & sketch --> highlight the parts that make the image a "break"
+___
 
-    - [ ] Night
+### <ins>Visuals
+
+- <ins>Break visualisation
+  - [x] Window sketch
+    - [x] Combination photo & sketch --> highlight the parts that make the image a "break"
+
+    - [ ] Add some more things to list
+
+    - [x] Night
         - [x] Stars
         - [x] Moon
         - [x] Colorful lights
+        - [x] Milky way
         - [ ] Northern lights
         - [ ] ufo (?)
 
     - [ ] Day
-        - [ ] Plants
-        - [ ] Open window
-        - [ ] Blanket hanging out 
+        - [x] Umbrella
+        - [x] Plants
+        - [x] Open window
+        - [x] Blanket hanging out 
         - [x] Airplanes
         - [x] Birds
 
     - [ ] Cloudy
         - [x] Clouds
-        - [ ] Rain
+        - [x] Rain
         - [ ] Smoking chimney
+        - [ ] Cat sitting on roof with umbrella (?)
 
 
 - <ins>Concept
+    - [ ] Logo app
     - [x] Mockup sketch
-        - [ ] Add smartwatch/phone
-        - [ ] Zoomed in version of buttons
     - [ ] User journey (?) 
         - [ ] storyboard
     - [ ] Infographics for features 
     - [ ] evtl Photoshop mockup
+        - [ ] Add smartwatch/phone
+        - [x] Zoomed in version of buttons
 
     - [ ] brief overview of idea, mechanics, design philosophy etc 
 
+___
+
+### <ins> Text
+- [ ] outline concept --> [[concept buzzwords]]
+- [ ] 200 words max concept
+
+<br>
+
 - [ ] Figure out how to implement hint:
+    - --> App icon? something like that
     - **windowframe(?)**
     - Data, graphs
     - How it checks if you need a break
