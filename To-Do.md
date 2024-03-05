@@ -13,10 +13,10 @@ Tuesday:
     - [ ] mindmap "what is a break for me"
     - [ ] mindmap "how does this help to take a break"
 
+- [x] Add "auswertung" to mockup with settings
 - [ ] Combine two mindmaps
 - [ ] Photoshop mockup of only screensaver thingy
 - [ ] Add windowframe to first window
-- [ ] Add "auswertung" to mockup with settings
 
 ___
 
