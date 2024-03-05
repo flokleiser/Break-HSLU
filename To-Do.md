@@ -9,7 +9,7 @@ Monday:
 
 Tuesday:
 - [x] Decide if i need new mindmap or not
-    - [ ] markdown file with +/- 200 words
+    - [x] markdown file with +/- 200 words
     - [ ] mindmap "what is a break for me"
     - [ ] mindmap "how does this help to take a break"
 
