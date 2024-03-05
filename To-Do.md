@@ -8,12 +8,15 @@ Monday:
 - [x] Logo app
 
 Tuesday:
-- [ ] Decide if i need new mindmap or not
-  - pros: 
-    - Easy way of showcasing concept
+- [x] Decide if i need new mindmap or not
+    - [x] markdown file with +/- 200 words
+    - [ ] mindmap "what is a break for me"
+    - [ ] mindmap "how does this help to take a break"
 
-  - cons:
-    - not sure if needed, or if distracting
+- [x] Add "auswertung" to mockup with settings
+- [ ] Combine two mindmaps
+- [ ] Photoshop mockup of only screensaver thingy
+- [ ] Add windowframe to first window
 
 ___
 
@@ -41,7 +44,7 @@ ___
         - [x] Airplanes
         - [x] Birds
         - [ ] Shadows
-        - [x] Blimp with "visualisation of my break" written on it
+        - [ ] Blimp or plane with "visualisation of my break" written on it
 
     - [ ] Cloudy
         - [x] Clouds
@@ -67,7 +70,7 @@ ___
 ### <ins> Text
 - [x] outline concept --> [[concept buzzwords]]
 - [ ] 200 words max concept
-- [ ] Figure out if i want the 200 words distributed or if i want a block of text
+- [x] Figure out if i want the 200 words distributed or if i want a block of text
 
 <br>
 
