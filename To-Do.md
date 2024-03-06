@@ -10,13 +10,16 @@ Monday:
 Tuesday:
 - [x] Decide if i need new mindmap or not
     - [x] markdown file with +/- 200 words
-    - [ ] mindmap "what is a break for me"
-    - [ ] mindmap "how does this help to take a break"
+    - [x] mindmap "what is a break for me"
+    - [x] mindmap "how does this help to take a break"
 
 - [x] Add "auswertung" to mockup with settings
-- [ ] Combine two mindmaps
+- [x] Combine two mindmaps
+
+Wednesday:
 - [ ] Photoshop mockup of only screensaver thingy
-- [ ] Add windowframe to first window
+- [x] Add windowframe to first window
+
 
 ___
 
@@ -45,6 +48,8 @@ ___
         - [x] Birds
         - [ ] Shadows
         - [ ] Blimp or plane with "visualisation of my break" written on it
+          - [x] Outline
+          - [ ] Filled in
 
     - [ ] Cloudy
         - [x] Clouds
@@ -59,7 +64,7 @@ ___
     - [x] Mockup sketch
     - [ ] User journey (?) 
         - [ ] storyboard
-    - [ ] Infographics for features 
+    - [x] Infographics for features 
         - [x] Add smartwatch/phone
         - [x] Zoomed in version of buttons
 
@@ -69,7 +74,7 @@ ___
 
 ### <ins> Text
 - [x] outline concept --> [[concept buzzwords]]
-- [ ] 200 words max concept
+- [x] 200 words max concept
 - [x] Figure out if i want the 200 words distributed or if i want a block of text
 
 <br>
