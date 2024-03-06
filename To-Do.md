@@ -10,15 +10,15 @@ Monday:
 Tuesday:
 - [x] Decide if i need new mindmap or not
     - [x] markdown file with +/- 200 words
-    - [ ] mindmap "what is a break for me"
-    - [ ] mindmap "how does this help to take a break"
+    - [x] mindmap "what is a break for me"
+    - [x] mindmap "how does this help to take a break"
 
 - [x] Add "auswertung" to mockup with settings
 - [x] Combine two mindmaps
 
 Wednesday:
 - [ ] Photoshop mockup of only screensaver thingy
-- [ ] Add windowframe to first window
+- [x] Add windowframe to first window
 
 
 ___
