@@ -17,9 +17,16 @@ Tuesday:
 - [x] Combine two mindmaps
 
 Wednesday:
-- [ ] Photoshop mockup of only screensaver thingy
 - [x] Add windowframe to first window
+- [ ] Photoshop mockup of only screensaver thingy
 
+Thursday:
+- [ ] Get feedback on mindmap etc
+- [ ] Implement feedback
+- [ ] maybe start shortening portfolio
+
+Friday: 
+- [ ] Shorten portfolio to only 5 Projects
 
 ___
 
