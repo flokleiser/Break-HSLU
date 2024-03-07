@@ -38,13 +38,14 @@
 
 - [x] Look over mindmap
 
-- [ ] maybe start shortening portfolio --> Sketches section
+- [x] maybe start shortening portfolio --> Sketches section
+- [x] Shorten portfolio --> Sketches section, to only be my sketchbook
 
 Friday: 
 - [ ] Get feedback on mindmap etc
 - [ ] Implement feedback
-- [ ] Shorten portfolio --> Sketches section, to only be my sketchbook
 
+--> research vscode wordcount (how to make extensions)
 ___
 
 ### <ins>Visuals
