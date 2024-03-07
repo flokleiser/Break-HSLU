@@ -70,6 +70,7 @@ ___
         - [x] Airplanes
         - [x] Birds
         - [ ] Shadows
+        - [ ] Hot air balloon
         - [x] Blimp or plane with "visualisation of my break" written on it
           - [x] Outline
           - [x] Filled in
