@@ -20,9 +20,9 @@
 - [x] Add windowframe to first window
 
 **Thursday:**
-- [ ] Photoshop mockup of only screensaver thingy
-  - [ ] Stuff on desk
-  - [ ] Make background more "background"
+- [x] Photoshop mockup of only screensaver thingy
+  - [x] Stuff on desk
+  - [x] Make background more "background"
 
 - [x] Mockup sketch
   - [x] add visualisation for notes
@@ -30,12 +30,13 @@
   - [x] add visualisation for sensors
 
 - [ ] Visualisation break
+  - [x] Hot air balloon
   - [ ] Add more stuff
   - [ ] more cats
   - [ ] more plants
   - [ ] more clouds
 
-- [ ] Look over mindmap
+- [x] Look over mindmap
 
 - [ ] maybe start shortening portfolio --> Sketches section
 
@@ -70,7 +71,7 @@ ___
         - [x] Airplanes
         - [x] Birds
         - [ ] Shadows
-        - [ ] Hot air balloon
+        - [x] Hot air balloon
         - [x] Blimp or plane with "visualisation of my break" written on it
           - [x] Outline
           - [x] Filled in
