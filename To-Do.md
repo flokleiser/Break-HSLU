@@ -18,15 +18,31 @@ Tuesday:
 
 Wednesday:
 - [x] Add windowframe to first window
-- [ ] Photoshop mockup of only screensaver thingy
 
 Thursday:
-- [ ] Get feedback on mindmap etc
-- [ ] Implement feedback
-- [ ] maybe start shortening portfolio
+- [ ] Photoshop mockup of only screensaver thingy
+  - [ ] Stuff on desk
+  - [ ] Make background more "background"
+
+- [ ] Visualisation break
+  - [ ] Add more stuff
+  - [ ] more cats
+  - [ ] more plants
+  - [ ] more clouds
+
+- [x] Mockup sketch
+  - [x] add visualisation for notes
+  - [x] add visualisation for data 
+  - [x] add visualisation for sensors
+
+- [ ] maybe start shortening portfolio --> Sketches section
+
+- [ ] Look over mindmap
 
 Friday: 
-- [ ] Shorten portfolio to only 5 Projects
+- [ ] Get feedback on mindmap etc
+- [ ] Implement feedback
+- [ ] Shorten portfolio --> Sketches section, to only be my sketchbook
 
 ___
 
@@ -54,14 +70,14 @@ ___
         - [x] Airplanes
         - [x] Birds
         - [ ] Shadows
-        - [ ] Blimp or plane with "visualisation of my break" written on it
+        - [x] Blimp or plane with "visualisation of my break" written on it
           - [x] Outline
-          - [ ] Filled in
+          - [x] Filled in
 
     - [ ] Cloudy
         - [x] Clouds
         - [x] Rain
-        - [ ] Smoking chimney
+        - [x] Smoking chimney
         - [x] Cat sitting on roof with umbrella (?)
         - [ ] More animals
 
