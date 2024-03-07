@@ -1,13 +1,13 @@
 # <ins>TO-DO HSLU AUFGABE
 
-Monday: 
+**Monday:** 
 - [x] Create .ai file of Concept PDF 
 - [x] Finish visualisation of break
-- [x] **Smart watch sketch**
+- [x] Smart watch sketch
     - [x] Finish mockup sketch
 - [x] Logo app
 
-Tuesday:
+**Tuesday:**
 - [x] Decide if i need new mindmap or not
     - [x] markdown file with +/- 200 words
     - [x] mindmap "what is a break for me"
@@ -16,13 +16,18 @@ Tuesday:
 - [x] Add "auswertung" to mockup with settings
 - [x] Combine two mindmaps
 
-Wednesday:
+**Wednesday:**
 - [x] Add windowframe to first window
 
-Thursday:
+**Thursday:**
 - [ ] Photoshop mockup of only screensaver thingy
   - [ ] Stuff on desk
   - [ ] Make background more "background"
+
+- [x] Mockup sketch
+  - [x] add visualisation for notes
+  - [x] add visualisation for data 
+  - [x] add visualisation for sensors
 
 - [ ] Visualisation break
   - [ ] Add more stuff
@@ -30,14 +35,9 @@ Thursday:
   - [ ] more plants
   - [ ] more clouds
 
-- [x] Mockup sketch
-  - [x] add visualisation for notes
-  - [x] add visualisation for data 
-  - [x] add visualisation for sensors
+- [ ] Look over mindmap
 
 - [ ] maybe start shortening portfolio --> Sketches section
-
-- [ ] Look over mindmap
 
 Friday: 
 - [ ] Get feedback on mindmap etc
@@ -52,7 +52,7 @@ ___
   - [x] Window sketch
     - [x] Combination photo & sketch --> highlight the parts that make the image a "break"
 
-    - [ ] Add some more things to list
+    - [x] Add some more things to list
 
     - [ ] Night
         - [x] Stars
@@ -114,6 +114,5 @@ ___
 #### To-Do (if time):
 - [ ] Shorten portfolio (to 20 pages)
     - [ ] Shorten Sketches
-    - [ ] Shorten Animations
 - [ ] More unified project description (time, project, title etc)
 ___
