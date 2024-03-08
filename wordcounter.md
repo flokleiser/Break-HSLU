@@ -17,6 +17,8 @@ no feeling of guilt for forgetting something
 ease of getting back to work
 example:
 looking out of my window at the rooftops of the old town
+
+
 concept idea
 detects when you need a break
 reminder that certain amount of time has passed
