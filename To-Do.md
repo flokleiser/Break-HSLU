@@ -115,7 +115,7 @@ ___
 ___
 
 #### To-Do (if time):
-- [ ] Shorten portfolio (to 20 pages)
-    - [ ] Shorten Sketches
+- [x] Shorten portfolio 
+    - [x] Shorten Sketches
 - [ ] More unified project description (time, project, title etc)
 ___
