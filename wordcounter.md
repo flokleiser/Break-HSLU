@@ -43,3 +43,6 @@ sounds
 sensors
 data
 visuals
+
+blurring the lines
+helps to ease the transition between break and work time
